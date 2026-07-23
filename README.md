@@ -17,7 +17,7 @@
 ### Phase 1: Core Language & Fundamentals
 *Focus: Getting comfortable writing, compiling, and running basic C programs on PC.*
 - [x] VS Code + MinGW-w64 (MSYS2) Environment Setup
-- [ ] Variables, Data Types, and Fixed-Width Integers (`stdint.h`: `uint8_t`, `uint32_t`)
+- [x] Variables, Data Types, and Fixed-Width Integers (`stdint.h`: `uint8_t`, `uint32_t`)
 - [ ] Control Flow (`if/else`, `switch-case`, `while`, `for`)
 - [ ] Functions, Scope, and Storage Classes (`static`, `extern`, `volatile`)
 
